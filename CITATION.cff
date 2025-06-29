@@ -1,0 +1,13 @@
+cff-version: "1.2.0"
+message: "If you use these materials, please cite this repository as follows."
+title: "Reproducibility-ICWSM25: Materials for the 2025 ICWSM workshops on Computational Reproducibility and the Methods Hub"
+authors:
+  - family-names: "Khan"
+    given-names: "Taimoor"
+  - family-names: "Saju"
+    given-names: "Lorraine"
+  - family-names: "Bleier"
+    given-names: "Arnim"
+date-released: "2025-06-29"
+repository-code: "https://github.com/arnim/Reproducibility-ICWSM25"
+license: "CC-BY-NC-4.0"
