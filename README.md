@@ -5,7 +5,7 @@ Materials for the 2025 [ICWSM](https://www.icwsm.org/2025/index.html) workshop s
 - 1st Workshop on Validating Social Text-as-Data Methods ([VaLiSTAD](https://sites.google.com/view/valistad2025icwsm))
 
 ## Target Audience
-This sessions are intended for participants in the social sciences who have at least some experience with Python or R and are interested in learning more about tools and workflows for making their research results reproducible.
+The sessions are intended for participants in the social sciences who have at least some experience with Python or R and are interested in learning more about tools and workflows for making their research results reproducible.
 
 ## Learning Objectives
 By the end of the session, participants will:
